@@ -1,7 +1,8 @@
 {
   "name": "vuetemplate",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
+  "author": "DwiiUnknown#3704",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -41,7 +42,7 @@
   "lint-staged": {
     "*.{js,jsx,vue,ts,tsx}": [
       "vue-cli-service lint",
-      "git add"
+      "git add ."
     ]
   }
 }
