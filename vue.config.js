@@ -6,7 +6,7 @@ module.exports = {
     },
     pluginOptions: {
       pwa: {
-        name: 'Mizu Homepage',
+        name: 'Vue',
         themeColor: '#212121',
         msTileColor: '#212121',
         appleMobileWebAppCapable: 'yes',
