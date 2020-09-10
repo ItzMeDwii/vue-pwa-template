@@ -4,8 +4,9 @@ module.exports = {
     configureWebpack: {
       devtool: 'nosources-source-map'
     },
+    pluginOptions: {
       pwa: {
-        name: 'Vue',
+        name: 'Mizu Homepage',
         themeColor: '#212121',
         msTileColor: '#212121',
         appleMobileWebAppCapable: 'yes',
